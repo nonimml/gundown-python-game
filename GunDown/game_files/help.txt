@@ -1,0 +1,10 @@
+GunDown Help
+------------
+GunDown is a single-player console game inspired by Battleships.
+You choose a grid size (minimum 3x3, maximum 5x5) and the number of hidden objects.
+Your task is to guess the correct cell numbers where the hidden objects are located.
+Hits are marked with 'H', misses with 'X', and results are shown at the end.
+Each game saves a text file with your results.
+Use the command format: gundown <rows>x<columns> <hidden_objects>
+For example: gundown 3x3 3
+You can also type 'gundown help' to see these instructions again.
